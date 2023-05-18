@@ -1,4 +1,4 @@
-# Quizzical-app
+# Quizzical-App
 A quiz app built with React that allows users to challenge themselves by answering trivia questions and earn points for each correct answer.
 
 ## Features
@@ -50,7 +50,7 @@ A quiz app built with React that allows users to challenge themselves by answeri
 - After submitting, your score will be displayed, and you can choose to play again.
 
 ## Screenshots
-![Quizzical App interface]([URL](https://s11.gifyu.com/images/Quizzical.gif))
+![Quizzical App interface](https://s11.gifyu.com/images/Quizzical.gif)
 
 ## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
