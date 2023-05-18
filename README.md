@@ -15,6 +15,7 @@ A quiz app built with React that allows users to challenge themselves by answeri
 - JavaScript
 - HTML
 - CSS
+- API (Open Trivia Database)
 
 ## Getting Started
 
@@ -22,20 +23,41 @@ A quiz app built with React that allows users to challenge themselves by answeri
 
 - Node.js installed
 
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/quiz-app.git
+2. Navigate to the project directory:
+cd quiz-app
+3. Install the dependencies:
+npm install
+4. Start the development server:
+npm start
+5. Open your browser and visit http://localhost:3000 to see the app running.
+
 ## Usage
 - Click the "Start Quiz" button to begin the quiz.
 - Read each question carefully and select your answer from the available options.
 - Click the "Check Answers" button to submit your answers and see the results.
 - After submitting, your score will be displayed, and you can choose to play again.
 
+
+
 ## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-- Fork the repository.
-- Create a new branch: git checkout -b my-feature
-- Make your changes and commit them: git commit -m 'Add some feature'
-- Push to the branch: git push origin my-feature
-- Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature: git checkout -b feature/your-feature-name.
+3. Make the necessary modifications and additions.
+4. Test your changes thoroughly.
+5. Commit your changes: git commit -m 'Add some feature'.
+6. Push to the branch: git push origin feature/your-feature-name.
+7. Create a pull request detailing your changes.
+
+## Support
+For any issues, concerns, or suggestions, please contact me at official.hamna.ahmad@gmail.com.
 
 ## License 
 This project is licensed under the MIT License.
