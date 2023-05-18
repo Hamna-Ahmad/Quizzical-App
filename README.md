@@ -27,14 +27,20 @@ A quiz app built with React that allows users to challenge themselves by answeri
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/quiz-app.git
 2. Navigate to the project directory:
-cd quiz-app
+
+   ```
+   cd quiz-app
 3. Install the dependencies:
-npm install
+
+   ```
+   npm install
 4. Start the development server:
-npm start
+
+   ```
+   npm start
 5. Open your browser and visit http://localhost:3000 to see the app running.
 
 ## Usage
@@ -43,7 +49,8 @@ npm start
 - Click the "Check Answers" button to submit your answers and see the results.
 - After submitting, your score will be displayed, and you can choose to play again.
 
-
+## Screenshots
+![Animated GIF OF INTERFACE](https://s11.gifyu.com/images/Quizzical.gif)
 
 ## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
