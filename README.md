@@ -50,7 +50,7 @@ A quiz app built with React that allows users to challenge themselves by answeri
 - After submitting, your score will be displayed, and you can choose to play again.
 
 ## Screenshots
-![Animated GIF OF INTERFACE](https://s11.gifyu.com/images/Quizzical.gif)
+[![Quizzical.gif](https://s11.gifyu.com/images/Quizzical.gif)](https://gifyu.com/image/SnVni)
 
 ## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
