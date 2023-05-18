@@ -43,6 +43,15 @@ A quiz app built with React that allows users to challenge themselves by answeri
    npm start
 5. Open your browser and visit http://localhost:3000 to see the app running.
 
+## Dependencies
+The Quizzical app has the following dependencies:
+
+- React: A JavaScript library for building user interfaces.
+- react-use: A collection of useful hooks for React.
+- nanoid: A small utility for generating unique IDs.
+
+Please ensure you have these dependencies installed before running the app.
+
 ## Usage
 - Click the "Start Quiz" button to begin the quiz.
 - Read each question carefully and select your answer from the available options.
