@@ -58,9 +58,6 @@ Please ensure you have these dependencies installed before running the app.
 - Click the "Check Answers" button to submit your answers and see the results.
 - After submitting, your score will be displayed, and you can choose to play again.
 
-## Screenshots
-![Quizzical App interface](https://s11.gifyu.com/images/Quizzical.gif)
-
 ## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
